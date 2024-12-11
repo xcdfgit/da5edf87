@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Dec 2024 21:26:12 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Test</title>
+      <link>https://example.org/posts/post/</link>
+      <pubDate>Wed, 11 Dec 2024 21:26:12 +0100</pubDate>
+      <guid>https://example.org/posts/post/</guid>
+      <description>&lt;h1 id=&#34;markdown-cheat-sheet&#34;&gt;Markdown Cheat Sheet&lt;/h1&gt;&#xA;&lt;p&gt;Thanks for visiting &lt;a href=&#34;https://www.markdownguide.org&#34;&gt;The Markdown Guide&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for &lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34;&gt;basic syntax&lt;/a&gt; and &lt;a href=&#34;https://www.markdownguide.org/extended-syntax/&#34;&gt;extended syntax&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;&#xA;&lt;p&gt;These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.&lt;/p&gt;&#xA;&lt;h3 id=&#34;heading&#34;&gt;Heading&lt;/h3&gt;&#xA;&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;&#xA;&lt;h3 id=&#34;bold&#34;&gt;Bold&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
